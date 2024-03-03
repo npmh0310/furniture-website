@@ -25,6 +25,7 @@ module.exports = {
           1: '#D9D9D9',
           2: '#E7E9EB',
           3: '#F5F5F5',
+          4: '#F6F6F6'
         },
         white: '#fff',
         pink: 'pink',

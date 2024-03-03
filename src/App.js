@@ -13,8 +13,8 @@ import Header from './components/Header';
 
 const App = () => {
   return <>
-    <Header />
     <div className='w-full max-w-[1440px] m-auto bg-white'>
+    <Header />
       <Hero />
       <Features />
       <NewItems />
