@@ -12,19 +12,17 @@ import Header from './components/Header';
 
 
 const App = () => {
-  return <>
-    <div className='w-full max-w-[1440px] m-auto bg-white'>
+  return <div className='w-full max-w-[1440px] m-auto bg-white'>
     <Header />
-      <Hero />
-      <Features />
-      <NewItems />
-      <FeaturesSecond />
-      <Products />
-      <Testimonial />
-      <Newsletter />
-      <Footer />
-    </div>
-  </>;
+    <Hero />
+    <Features />
+    <NewItems />
+    <FeaturesSecond />
+    <Products />
+    <Testimonial />
+    <Newsletter />
+    <Footer />
+  </div>;
 };
 
 export default App;
